@@ -1,0 +1,12 @@
+#labels FAQCodeKaXSVNenCodeGoogle
+Bueno, esta explicación sera rápida porque todo lo que se explica en esta se puede aprender de manera intuitiva, aun así, nunca esta de mas una pequeña explicación.
+
+Existen 5 links pricipales en nuestra pagina SVN, el primero es "Project Home", que como todos sabemos es la pagina principal. Este a su vez tiene "Summary" (que es el sumario de la pagina), "Updates" (actualizaciones recientes en el código) y "People" (que son los miembros oficiales del proyecto).
+
+El segundo link es "Downloads", que creo esta de más explicarlo.
+
+El tercero es Wiki, que como su nombre lo indica es una wiki, para mas informacion sobre esto creo que deberían consultar en Google.
+
+El cuarto(y más importante para mi) es "Issues"(Problemas) pues es aquí donde cualquier usuario puede publicar un error que haya encontrado o una mejora que cree que se seba aplica al codigo actual. Para eso solo hacen clic en "New Issue"(Nuevo problema), llenar la forma que aparece especificando todo lo que se le pide y luego hacer clic en "Submit Issue", listo. Por cierto, tienen que tener una cuenta en google gmail o un e-mail cualquiera(hotmail, yahoo, etc.) registrado en google para poder suscribir un problema.
+
+El quinto es "Source", dentro del cual se encuentran Checkout(queda pautas para descargar el codigo), "Browse" (para explorar directamente en el SVN) y "Changes", que es donde se veran todos los cambios relizados en el codigo a lo largo del tiempo. Entren aqui para ver las ultimas mejoras y arreglos hechos al codigo y den su opinion sobre estas, pues tambien pueden comentar.
