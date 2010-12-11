@@ -1,4 +1,4 @@
-#summary Ina pequeña guia introductoria al SVN en Google.
+#summary Una pequeña guia introductoria al SVN en Google.
 #labels Guia,Usar,CodeKaX,SVN,Google.
 
 Bueno, esta explicación sera rápida porque todo lo que se explica en esta se puede aprender de manera intuitiva, aun así, nunca esta de mas una pequeña explicación.
