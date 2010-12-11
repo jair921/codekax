@@ -1,4 +1,4 @@
-#labels FAQ_CodeKaX_SVN_en_Code_Google
+#labels FAQ_CodeKaX_SVN_en_Code_Google,szszs,cczsczsc
 Bueno, esta explicación sera rápida porque todo lo que se explica en esta se puede aprender de manera intuitiva, aun así, nunca esta de mas una pequeña explicación.
 
 Existen 5 links pricipales en nuestra pagina SVN, el primero es "Project Home", que como todos sabemos es la pagina principal. Este a su vez tiene "Summary" (que es el sumario de la pagina), "Updates" (actualizaciones recientes en el código) y "People" (que son los miembros oficiales del proyecto).
