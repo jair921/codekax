@@ -1,5 +1,5 @@
 #summary CodeKaX SVN en Code Google.
-#labels CodeKaX,SVNenCodeGoogle.
+#labels CodeKaX,SVN,en,Code,Google.
 
 Bueno, esta explicación sera rápida porque todo lo que se explica en esta se puede aprender de manera intuitiva, aun así, nunca esta de mas una pequeña explicación.
 
