@@ -1,0 +1,37 @@
+Bueno amigos desarrolladores y colaboradores, aqui una miniguia de como subir codigo al SVN de CodeKaX en Google code.
+
+Deben saber que solo podran colaborar aquellos miembros que cuenten con su clave privada de desarrollador, es decir los desarrolladores oficiales aceptados en el SVN. Mas informacion:
+
+Mas informacion en est eenlace:
+
+Primero debemos descargar el programa TortoiseSVN de la siguiente direccion:
+
+http://tortoisesvn.net/downloads.html#
+
+Escoger de acuerdo a la version de windows que tengan y una vez descargado procedan a instalarlo, denle a todo siguiente y reinicien.
+
+Ahora ya esta todo listo para empezar a contribuir, lo que deben hacer es lo siguiente, crear una carpeta con el nombre que gusten en el lugar de su PC que mas quieran.
+
+Por ejemplo yo creare una carpeta llama CodeKaX en D:\ de modo que me quedara D:\CodeKaX.
+
+Ahora le dan clic derecho a esa carpeta y hacen clic en la opcion "SVN Checkout..." y les aparecera una ventana en la cual solo agregan donde dice "URL of repository:" lo siguiente:
+
+https://codekax.googlecode.com/svn/trunk/
+
+Dan OK y esperan hasta que haya terminado y les mencione el numero de revision. Algo como:
+
+Completed. At revision: # (Este numero suele cambiar de acuerdo a la revision)
+
+Ojo, esta carpeta es muy importante puesto que de ahora en adelante estara conectada con el SVN por lo que todo cambio que hagan lo podran subir si gustan y cambiara el codigo en el SVN y para todos.
+
+Otra cosa, siempre deben tenerla actualizada, por eso revisen el SVN antes de realizar cualquier cambio para que asi si suben su codigo no desahagan mejoras hechas por otras personas.
+
+Para actualizarla a la ultima version solo hagan clic derecho en la carpeta donde tienen el SVN en su maquina (la que hicimos hace un momento) y seleccionan "SVN Update", esperan un momento y hara todos los cambios realizados hasta la fecha y les mencionara la revision actual. Si no hay cambios en el codigo solo les mencionara la revision actual.
+
+Tambien recuerden que deben copiar todo el contenido de la carpeta SVN actualizada a su carpeta htdocs en su webserver para que todos trabajemos la misma version actualizada y no deshagamos mejoras hechas por otros desarrolladores.
+
+Ahora si, la ultima parte, cuando modifiquen o hagan una mejora al codigo que tienen desarrollando en la carpeta htdocs del xammp, wamp o lo que manejen, solo deberan agregar las lineas del codigo cambiado o modificado a los archivos correspondientes de su carpeta SVN, en este ejemplo D:\CodeKaX. Ahora notaran que todos los archivos cambiados aparecen con un signo de interrogacion rojo, no se preocupen, eso es normal e indica que  hubo una modificacion en dicho archivo. Para terminar de subir su codigo solo hacen clic derecho a la carpeta raiz de su SVN (D:\CodeKaX) y le dan "SVN Commit". Escriben el comentario de su subida(me refiero al cambio que han realizado o al fix que  estan haciendo), marcan con un check la opcion "Select / Deselect All" que se encuentra en la ventana debajo de comentario y  dan OK. Esperan a que termine y listo, ya subieron nuevo codigo con sus mejoras.
+
+Recuerden, ustedes pueden desarrollar el codigo donde quieran, por ejemplo en su carpeta de wamp y luego las lineas de los archivos modificados de su carpeta htdocs las reemplazan en los archivos correspondientes del SVN en su PC y luego los suben con SVN Commit, solo recuerden actualizar su carpeta SVN antes para que no deshagan cambio hechos por otros usuarios.
+
+Eso es todo, cualquier duda me la comunican por este medio.
