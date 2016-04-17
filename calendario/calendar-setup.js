@@ -35,7 +35,7 @@
  *   eventName     | event that will trigger the calendar, without the "on" prefix (default: "click")
  *   ifFormat      | date format that will be stored in the input field
  *   daFormat      | the date format that will be used to display the date in displayArea
- *   singleClick   | (true/false) wether the calendar is in single click mode or not (default: true)
+ *   singleClick   | (true/false) whether the calendar is in single click mode or not (default: true)
  *   mondayFirst   | (true/false) if true Monday is the first day of week, Sunday otherwise (default: true)
  *   align         | alignment (default: "Bl"); if you don't know what's this see the calendar documentation
  *   range         | array with 2 elements.  Default: [1900, 2999] -- the range of years available
